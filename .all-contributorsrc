@@ -1,23 +1,34 @@
 {
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
   "contributors": [
     {
-      "login": "iburton",
-      "name": "Ira Burton",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/56963?v=4",
-      "profile": "http://www.phiw.com",
+      "login": "mubaidr",
+      "name": "Muhammad Ubaid Raza",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2222702?v=4",
+      "profile": "https://mubaidr.js.org/",
       "contributions": [
-        "tool"
+        "boilerplate"
       ]
     }
   ],
+  "types": {
+    "boilerplate": {
+      "symbol": "🔥",
+      "description": "Boilerplate tooling",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "files": [
+    "README.md",
+    "README-DEV.md"
+  ],
+  "imageSize": 100,
+  "commit": false,  
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-green.svg?style=flat)](#contributors)",
+  "contributorTemplate": "<%= avatarBlock %><br /><%= contributions %>",  
   "contributorsPerLine": 7,
   "projectName": "frozen",
   "projectOwner": "iburton",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": "true"
 }
