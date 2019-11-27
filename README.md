@@ -1,4 +1,5 @@
 # Frozen Assets - Open Asset Management
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- TODO: Add the URL to the repo license file once it exists -->
 <!-- Add https://allcontributors.org/ support -->
 [![License](https://img.shields.io/github/license/iburton/frozen)]()
@@ -14,3 +15,13 @@ As asset managers, sometimes we just need basic tooling to achieve our goals, bu
 - All other features under development
 
 ## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.phiw.com"><img src="https://avatars0.githubusercontent.com/u/56963?v=4" width="100px;" alt="Ira Burton"/><br /><sub><b>Ira Burton</b></sub></a><br /><a href="#tool-iburton" title="Tools">🔧</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
