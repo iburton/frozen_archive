@@ -1,7 +1,5 @@
 // import the styles
-import 'bulma-pro/bulma.sass'
 import { ipcRenderer } from 'electron'
-import 'material-design-icons/iconfont/material-icons.css'
 import Vue from 'vue'
 import App from './App.vue'
 import './assets/style/animations.scss'

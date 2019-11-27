@@ -3,11 +3,6 @@
     <section class="hero is-dark is-bold">
       <div class="hero-body">
         <br />
-        <div class="block has-text-centered">
-          <figure class="image is-128x128">
-            <img alt="Placeholder image" src="../../../_icons/512pxblue.png" />
-          </figure>
-        </div>
         <div class="content has-text-centered">
           <h1 class="title is-4">
             Vue-Electron-Template

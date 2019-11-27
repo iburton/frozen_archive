@@ -1,5 +1,4 @@
 # Frozen Assets - Open Asset Management
-<!-- TODO: Add the URL to the repo license file once it exists -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat)](#contributors)
 [![License](https://img.shields.io/github/license/iburton/frozen)](https://github.com/iburton/frozen/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/iburton/frozen.svg?branch=master)](https://travis-ci.org/iburton/frozen)
