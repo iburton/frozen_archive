@@ -12,6 +12,9 @@
         `<%= htmlWebpackPlugin.options.nodeModules.replace(/\\/g, '\\\\') %>`
       )
     </script>
+    <script>window.$ = window.jQuery = require('jquery');</script>
+    <link rel="stylesheet" type="text/css" href="/static/semantic/semantic.min.css">
+    <script src="/static/semantic/semantic.min.js"></script>
     <% } %>
   </head>
 
