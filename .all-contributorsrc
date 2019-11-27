@@ -7,7 +7,7 @@
   "types": {
     "boilerplate": {
       "symbol": "🔥",
-      "description": Boilerplate tooling",
+      "description": "Boilerplate tooling",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
